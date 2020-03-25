@@ -1,4 +1,0 @@
- 	Install and test Python distribution (ideally you should install the distributon from Anaconda which automaticaly installs all of the necessary libraries used in this class).
-* 	Familiarize yourself with IPython, and particularly, Jupyter Notebook. There is also a nice 30 min. Jupyter Notebook Tutorial Video by Corey Schafer.
-* 	Go through the "Quick Tutorial" on Numpy User Guide and try to follow the examples on your own (using Jupyter Notebook as the shell).
-* 	Review Section 1 of Python Scientific Lecture Notes.
